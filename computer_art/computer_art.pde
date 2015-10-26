@@ -14,6 +14,8 @@ void setup(){
   stroke(255);
     
   drawRect();
+  
+  save("triangulation.jpg");
 }
 
 void draw(){
